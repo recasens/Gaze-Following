@@ -1,7 +1,8 @@
 Author: Adrià Recasens (recasens@mit.edu)
 
 In this folder, you will find the essential files for training and using the video gazefollowing model.
-
+# Data #
+The VideoGaze dataset can be found [here](http://videogazefollow.csail.mit.edu/downloads/data.zip). 
 # Training #
 
 In train.py, you will find the basic training file. The training data is specified in train.txt and test.txt. The format for this files is:
