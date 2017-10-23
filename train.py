@@ -13,7 +13,6 @@ import torchvision.datasets as datasets
 import torchvision.models as models
 from data_loader import ImagerLoader
 import numpy as np
-from pycrayon import CrayonClient
 from videogaze_model import VideoGaze
 import cv2
 import math
